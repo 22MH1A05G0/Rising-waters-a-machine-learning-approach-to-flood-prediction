@@ -1,1 +1,1 @@
-Project report in pdf format.
+This contains the project documentation.
